@@ -146,13 +146,13 @@ data:
       tenant-ceph-mgr: enabled
       kubernetes-apiserver: enabled
       kubernetes-controller-manager: enabled
-      kubernetes-etcd: enabled
+    #  kubernetes-etcd: enabled
       kubernetes-scheduler: enabled
       tiller-helm: enabled
       kube-etcd: enabled
       calico-policy: enabled
       calico-node: enabled
-      calico-etcd: enabled
+    #  calico-etcd: enabled
       ucp-armada: enabled
       ucp-drydock: enabled
       ucp-deckhand: enabled
